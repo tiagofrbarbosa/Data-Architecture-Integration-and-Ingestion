@@ -39,6 +39,10 @@ Implementar a etapa de ingestão de dados utilizando o **Apache NiFi**, conectan
 
 ## 🏗️ Arquitetura de Dados
 
+<p align="center">
+  <img src="Arquitetura%20de%20Dados%20-%20Quantum%20Finance.jpg" alt="NiFi Pipeline" width="800">
+</p>
+
 O projeto foi modelado seguindo a estrutura clássica de um **Data Lake**, conforme o diagrama apresentado no documento de arquitetura:
 
 - Fontes de dados: APIs, arquivos, imagens.
